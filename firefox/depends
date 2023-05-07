@@ -14,7 +14,10 @@ libpng
 libvpx
 libxkbcommon
 libXcursor
+libXcomposite
 mesa
+nss
+nspr
 pango
 pixman
 zlib

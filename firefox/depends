@@ -8,6 +8,7 @@ freetype-harfbuzz
 gdk-pixbuf
 glib
 gtk+3
+hicolor-icon-theme
 libdrm
 libffi
 libpng
